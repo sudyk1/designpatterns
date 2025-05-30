@@ -1,0 +1,2 @@
+# Design Paterns Examples
+This repository contains practical examples of various design patterns implemented in Java. Design patterns are reusable solutions to common problems in software design that help create more maintainable, flexible, and robust code.
